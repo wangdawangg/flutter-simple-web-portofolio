@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/utils/content_view.dart';
-import 'package:flutter_application_2/utils/tab_controller_handler.dart';
-import 'package:flutter_application_2/utils/view_wrapper.dart';
-import 'package:flutter_application_2/views/about_view.dart';
-import 'package:flutter_application_2/views/home_view.dart';
-import 'package:flutter_application_2/views/project_view.dart';
-import 'package:flutter_application_2/widgets/bottom_bar.dart';
-import 'package:flutter_application_2/widgets/custom_tab.dart';
-import 'package:flutter_application_2/widgets/custom_tab_bar.dart';
+import 'package:flutter-web-portofolio/utils/content_view.dart';
+import 'package:flutter-web-portofolio/utils/tab_controller_handler.dart';
+import 'package:flutter-web-portofolio/utils/view_wrapper.dart';
+import 'package:flutter-web-portofolio/views/about_view.dart';
+import 'package:flutter-web-portofolio/views/home_view.dart';
+import 'package:flutter-web-portofolio/views/project_view.dart';
+import 'package:flutter-web-portofolio/widgets/bottom_bar.dart';
+import 'package:flutter-web-portofolio/widgets/custom_tab.dart';
+import 'package:flutter-web-portofolio/widgets/custom_tab_bar.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
 class HomePage extends StatefulWidget {

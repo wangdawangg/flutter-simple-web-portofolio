@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/utils/theme_selector.dart';
-import 'package:flutter_application_2/utils/view_wrapper.dart';
-import 'package:flutter_application_2/widgets/bullet_list.dart';
-import 'package:flutter_application_2/widgets/navigation_arrow.dart';
+import 'package:flutter-web-portofolio/utils/theme_selector.dart';
+import 'package:flutter-web-portofolio/utils/view_wrapper.dart';
+import 'package:flutter-web-portofolio/widgets/bullet_list.dart';
+import 'package:flutter-web-portofolio/widgets/navigation_arrow.dart';
 
 class AboutView extends StatefulWidget {
   const AboutView({Key? key}) : super(key: key);

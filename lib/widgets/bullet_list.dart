@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/widgets/bullet_point.dart';
+import 'package:flutter-web-portofolio/widgets/bullet_point.dart';
 
 class BulletList extends StatefulWidget {
   const BulletList({Key? key, required this.strings}) : super(key: key);

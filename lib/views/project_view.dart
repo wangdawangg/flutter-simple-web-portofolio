@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/utils/project_models.dart';
-import 'package:flutter_application_2/utils/theme_selector.dart';
-import 'package:flutter_application_2/utils/view_wrapper.dart';
-import 'package:flutter_application_2/widgets/navigation_arrow.dart';
-import 'package:flutter_application_2/widgets/project_entry.dart';
-import 'package:flutter_application_2/widgets/project_image.dart';
+import 'package:flutter-web-portofolio/utils/project_models.dart';
+import 'package:flutter-web-portofolio/utils/theme_selector.dart';
+import 'package:flutter-web-portofolio/utils/view_wrapper.dart';
+import 'package:flutter-web-portofolio/widgets/navigation_arrow.dart';
+import 'package:flutter-web-portofolio/widgets/project_entry.dart';
+import 'package:flutter-web-portofolio/widgets/project_image.dart';
 
 class ProjectView extends StatefulWidget {
   const ProjectView({Key? key}) : super(key: key);

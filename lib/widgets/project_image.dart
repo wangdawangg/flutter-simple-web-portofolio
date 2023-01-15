@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hovering/hovering.dart';
-import 'package:flutter_application_2/utils/project_models.dart';
+import 'package:flutter-web-portofolio/utils/project_models.dart';
 
 class ProjectImage extends StatelessWidget {
   const ProjectImage({Key? key, required this.project, required this.onPressed})

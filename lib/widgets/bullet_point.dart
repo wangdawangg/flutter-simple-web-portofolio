@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/utils/theme_selector.dart';
+import 'package:flutter-web-portofolio/utils/theme_selector.dart';
 
 class BulletPoint extends StatelessWidget {
   const BulletPoint(

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/utils/project_models.dart';
-import 'package:flutter_application_2/utils/theme_selector.dart';
+import 'package:flutter-web-portofolio/utils/project_models.dart';
+import 'package:flutter-web-portofolio/utils/theme_selector.dart';
 
 class ProjectEntry extends StatelessWidget {
   const ProjectEntry({Key? key, required this.project}) : super(key: key);
